@@ -1,3 +1,71 @@
+# CLI Task Manager
+
+A simple Command Line Interface (CLI) Task Manager application built with Python.
+
+This project allows users to:
+- Add tasks
+- View tasks
+- Delete tasks
+- Quit the application
+
+The application stores tasks using a Python list and demonstrates foundational Python programming concepts such as:
+- Functions
+- Lists
+- Loops
+- Conditionals
+- Error Handling
+- User Input
+- Docstrings
+
+---
+
+# Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [How to Run](#how-to-run)
+- [How to Use](#how-to-use)
+- [Error Handling](#error-handling)
+- [Concepts Practiced](#concepts-practiced)
+- [Future Improvements](#future-improvements)
+- [Author](#author)
+
+---
+
+# Features
+
+- Add tasks to a task list
+- View all current tasks
+- Delete tasks by selecting task number
+- Input validation for invalid menu choices
+- Error handling using:
+  - `try`
+  - `except`
+  - `else`
+  - `finally`
+- Clean and organized function-based structure
+- Descriptive docstrings and comments
+
+---
+
+# Technologies Used
+
+- Python 3
+
+---
+
+# Project Structure
+
+```text
+task-manager/
+│
+├── task_manager.py
+└── README.md
+
+---
+
 # Lessons Learned During Development
 
 ## 🖥️ Using `\n` for Cleaner Terminal Output
